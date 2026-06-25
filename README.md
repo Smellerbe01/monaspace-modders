@@ -22,6 +22,7 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 
 ---
 ![Vista previa](code.png)
+![fonts](fonts.png)
 
 ## 🚀 Instalación y Configuración
 
