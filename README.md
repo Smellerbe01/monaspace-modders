@@ -21,8 +21,8 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 | **Bold Italic** | **Krypton** | Variante híbrida para casos especiales de sintaxis avanzada o variables clave. |
 
 ---
-![Vista previa](code.png)
-![fonts](fonts.png)
+![Vista previa](images/code.png)
+![fonts](images/fonts.png)
 
 ## 🚀 Instalación y Configuración
 
@@ -42,7 +42,7 @@ Por ejemplo, para activar **Argon** por defecto y hacer que los comentarios adop
 Puedes usar este archivo como referencia, no olvides cambiar la linea del tema que esta utilizando, en mi caso es el Aura Soft Dark:
 
 los tokens se pueden obtener inspeccionando el editor mediante las opciones de desarrollador: inspeccionar los tokens y ámbitos del editor. Lo encuentras usando ctrl + shift + p, luego buscas "inspect"
-![Tokens](tokens.png)
+![Tokens](images/tokens.png)
 
 ```json
 // --- 🖋️ CONFIGURACIÓN DE FUENTES MONASPACE MIX ---
