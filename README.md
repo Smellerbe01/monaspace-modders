@@ -1,6 +1,5 @@
 # Monaspace Remix: NeiberFonts 🚀
 
-[![GitHub license](https://img.shields.io/github/license/github-user/repo-name)](LICENSE)
 [![FontForge](https://img.shields.io/badge/Made%20with-FontForge-blue.svg)](https://fontforge.org/)
 
 | **Monaspace Remix** |
