@@ -1,7 +1,5 @@
 # Monaspace Remix: NeiberFonts 🚀
 
-[![FontForge](https://img.shields.io/badge/Made%20with-FontForge-blue.svg)](https://fontforge.org/)
-
 | **Monaspace Remix** |
 | :---: |
 | <img src = "images/header.png" width="100%"> |
