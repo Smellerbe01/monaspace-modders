@@ -25,8 +25,8 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 ## 🎨 Colores y Tipografía
 
 | HTML | Python | Tipografía |
-| :---: | :---: |
-| <img src="images/code.png" width="200"> | <img src="images/phyton.png" width="200"> | <img src="images/fonts.png" width="200"> |
+| :---: | :---: | :---: |
+| <img src="images/code.png" width="32%"> | <img src="images/phyton.png" width="32%"> | <img src="images/fonts.png" width="32%"> |
 
 ## 🚀 Instalación y Configuración
 
