@@ -21,7 +21,7 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 | **Bold Italic** | **Krypton** | Variante híbrida para casos especiales de sintaxis avanzada o variables clave. |
 
 ---
-![Vista previa de NeiberFonts](monaspace-modders\code.png)
+![Vista previa ](monaspace-modders\code.png)
 
 ## 🚀 Instalación y Configuración
 
