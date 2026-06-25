@@ -22,6 +22,7 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 
 ---
 ![Vista previa](images/code.png)
+![alt text](images/phyton.png)
 ![fonts](images/fonts.png)
 
 ## 🚀 Instalación y Configuración
