@@ -21,13 +21,12 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 | **Bold Italic** | **Krypton** | Variante híbrida para casos especiales de sintaxis avanzada o variables clave. |
 
 ---
-![Vista previa](images/code.png)
-![alt text](images/phyton.png)
-![fonts](images/fonts.png)
 
-| Argon (Regular) | Xenon (Italic) |
+## 🎨 Colores y Tipografía
+
+| HTML | Python | Tipografía |
 | :---: | :---: |
-| <img src="images/code.png" width="200"> | <img src="images/phyton.png" width="200"> |
+| <img src="images/code.png" width="200"> | <img src="images/phyton.png" width="200"> | <img src="images/fonts.png" width="200"> |
 
 ## 🚀 Instalación y Configuración
 
