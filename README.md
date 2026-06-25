@@ -46,7 +46,11 @@ Por ejemplo, para activar **Argon** por defecto y hacer que los comentarios adop
 Puedes usar este archivo como referencia, no olvides cambiar la linea del tema que esta utilizando, en mi caso es el Aura Soft Dark:
 
 los tokens se pueden obtener inspeccionando el editor mediante las opciones de desarrollador: inspeccionar los tokens y ámbitos del editor. Lo encuentras usando ctrl + shift + p, luego buscas "inspect"
-![Tokens](images/tokens.png)width="50%"
 
-```json
+|tokens options|
+| :---: |
+| <img src = "images/tokens.png" width="50%"> |
+
+### 3. Configuración en el Editor
+
 revisa la carpeta de resources en la que encontraras un ejemplo de como yo lo hice, recuerda que el código se escribe en el settings.json de tu editor
