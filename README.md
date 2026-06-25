@@ -3,6 +3,10 @@
 [![GitHub license](https://img.shields.io/github/license/github-user/repo-name)](LICENSE)
 [![FontForge](https://img.shields.io/badge/Made%20with-FontForge-blue.svg)](https://fontforge.org/)
 
+| **Monaspace Remix** |
+| :---: |
+| <img src = "images/header.png" width="100%"> |
+
 **Monaspace Remix (NeiberFonts)** es una familia de fuentes tipográficas híbrida diseñada para maximizar la legibilidad y la estética en entornos de desarrollo. A diferencia de las familias tradicionales donde los estilos (*Italic*, *Bold*) son solo variaciones de peso de la misma tipografía, este proyecto utiliza una **fusión por metadatos** realizada en **FontForge** para enlazar 4 fuentes completamente distintas y diferenciables bajo un mismo nombre.
 
 La magia de **NeiberFonts** se activa mediante la configuración del archivo de preferencias (como el `.json` de tu editor de código). Al asignar estilos específicos a diferentes elementos sintácticos (como comentarios o palabras clave), el editor no solo cambia el peso del texto, sino que intercambia la fuente por una familia visualmente diferente en tiempo real.
@@ -26,7 +30,7 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 
 | HTML | Python | Tipografía |
 | :---: | :---: | :---: |
-| <img src="images/code.png" width="32%"> | <img src="images/phyton.png" width="32%"> | <img src="images/fonts.png" width="32%"> |
+| <img src="images/code.png" width="32%"> | <img src="images/python.png" width="32%"> | <img src="images/fonts.png" width="32%"> |
 
 ## 🚀 Instalación y Configuración
 
