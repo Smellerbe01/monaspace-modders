@@ -25,6 +25,10 @@ El proyecto consta de **4 archivos de fuentes** enlazados internamente mediante 
 ![alt text](images/phyton.png)
 ![fonts](images/fonts.png)
 
+| Argon (Regular) | Xenon (Italic) |
+| :---: | :---: |
+| <img src="images/code.png" width="200"> | <img src="images/phyton.png" width="200"> |
+
 ## 🚀 Instalación y Configuración
 
 ### 1. Instalación de las Fuentes
